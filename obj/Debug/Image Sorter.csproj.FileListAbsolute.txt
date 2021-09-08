@@ -1,0 +1,10 @@
+C:\Users\brent\source\repos\Image Sorter\bin\Debug\Image Sorter.exe.config
+C:\Users\brent\source\repos\Image Sorter\bin\Debug\Image Sorter.exe
+C:\Users\brent\source\repos\Image Sorter\bin\Debug\Image Sorter.pdb
+C:\Users\brent\source\repos\Image Sorter\obj\Debug\Image Sorter.csprojAssemblyReference.cache
+C:\Users\brent\source\repos\Image Sorter\obj\Debug\Image_Sorter.Properties.Resources.resources
+C:\Users\brent\source\repos\Image Sorter\obj\Debug\Image Sorter.csproj.GenerateResource.cache
+C:\Users\brent\source\repos\Image Sorter\obj\Debug\Image Sorter.csproj.CoreCompileInputs.cache
+C:\Users\brent\source\repos\Image Sorter\obj\Debug\Image Sorter.exe
+C:\Users\brent\source\repos\Image Sorter\obj\Debug\Image Sorter.pdb
+C:\Users\brent\source\repos\Image Sorter\obj\Debug\Image_Sorter.InvalidDateException.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Sorter", "Image Sorter.csproj", "{ACB97121-5D42-4F38-8120-88136EA0425B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB97121-5D42-4F38-8120-88136EA0425B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB97121-5D42-4F38-8120-88136EA0425B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB97121-5D42-4F38-8120-88136EA0425B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB97121-5D42-4F38-8120-88136EA0425B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85F81768-B4C0-4A23-BDD6-B22E2A6E46D7}
+	EndGlobalSection
+EndGlobal

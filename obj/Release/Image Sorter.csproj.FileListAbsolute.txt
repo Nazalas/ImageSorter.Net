@@ -1,0 +1,9 @@
+C:\Users\brent\source\repos\Image Sorter\bin\Release\Image Sorter.exe.config
+C:\Users\brent\source\repos\Image Sorter\bin\Release\Image Sorter.exe
+C:\Users\brent\source\repos\Image Sorter\bin\Release\Image Sorter.pdb
+C:\Users\brent\source\repos\Image Sorter\obj\Release\Image_Sorter.Properties.Resources.resources
+C:\Users\brent\source\repos\Image Sorter\obj\Release\Image Sorter.csproj.GenerateResource.cache
+C:\Users\brent\source\repos\Image Sorter\obj\Release\Image Sorter.csproj.CoreCompileInputs.cache
+C:\Users\brent\source\repos\Image Sorter\obj\Release\Image Sorter.exe
+C:\Users\brent\source\repos\Image Sorter\obj\Release\Image Sorter.pdb
+C:\Users\brent\source\repos\Image Sorter\obj\Release\Image_Sorter.Form1.resources
